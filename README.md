@@ -1,5 +1,4 @@
 # scheduling_with_QLearning
-# Cognitive AI Mouse Experiment
 
 This is a discrete event simulation of a healthcare facility, implemented in Python.
 
